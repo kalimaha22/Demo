@@ -1,6 +1,6 @@
 {
   "name": "我的源列表",
-  "version": 2,
+  "version": 1,
   "sources": [
     { "name": "紅牛資源",     "url": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8" },
     { "name": "红牛",         "url": "https://www.hongniuzy2.com/api.php/provide/vod/" },
