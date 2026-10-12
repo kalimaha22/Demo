@@ -1,4 +1,6 @@
 {
+  "name": "我的源列表",
+  "version": 2,
   "sources": [
     { "name": "紅牛資源",      "url": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8" },
     { "name": "红牛",          "url": "https://www.hongniuzy2.com/api.php/provide/vod/" },
@@ -68,5 +70,5 @@
     { "name": "新浪",          "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/" },
     { "name": "快云",          "url": "https://www.kuaiyunzy.com/api.php/provide/vod/" }
   ],
-  "lives": []
+  "liveSources": []
 }
