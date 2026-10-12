@@ -69,6 +69,5 @@
     { "name": "奇虎",         "url": "https://caiji.qhzyapi.com/api.php/provide/vod/" },
     { "name": "新浪",         "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/" },
     { "name": "快云",         "url": "https://www.kuaiyunzy.com/api.php/provide/vod/" }
-  ],
-  "liveSources": []
+  ]
 }
